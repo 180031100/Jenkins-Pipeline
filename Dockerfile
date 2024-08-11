@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-
+# Testing the continuous Code Commit
 FROM node:18-alpine
 WORKDIR /app
 COPY . .
